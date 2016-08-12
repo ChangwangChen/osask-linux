@@ -57,7 +57,7 @@ msg:
 	db	"Hello, World!"
 	db	0x0a
 	db	0x0d
-	db	"author: Changwang"
+	db	"author: Cyw1104"
 	db	0x0a
 	db	0x0d
 	
